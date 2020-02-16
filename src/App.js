@@ -1,5 +1,5 @@
 import React from "react";
-import CitySearchController from "./CitySearchController";
+import CitySearchController from "./CitySearch/CitySearchController";
 import "./App.css";
 
 function App() {
